@@ -256,13 +256,4 @@ The projects cover the following concepts:
 - Feature Importance
 - SHAP Explainability
 
-# How to Run
 
-## 1. Install Python
-
-Make sure Python is installed on your system.
-
-Check the Python version:
-
-```bash
-python --version
